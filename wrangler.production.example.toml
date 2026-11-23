@@ -1,0 +1,21 @@
+# Copy the confirmed existing Pages project configuration from Cloudflare with:
+#   npx wrangler pages download config YOUR_CONFIRMED_PROJECT
+# Review the generated file before replacing wrangler.toml. This example is not
+# read by Wrangler and intentionally contains a non-production placeholder.
+name = "replace-with-confirmed-pages-project"
+pages_build_output_dir = "./public"
+compatibility_date = "2026-10-19"
+
+# If Cloudflare Workers AI is the chosen provider, confirm this binding in the
+# Pages project configuration/dashboard. Do not add API secrets to this file.
+# [ai]
+# binding = "AI"
+
+# Optional persistent university catalogue. Create/confirm the database first,
+# apply migrations/0001_university_catalogue.sql and 0002_seed_path_v78.sql,
+# then replace both placeholders. Without this binding the API safely uses the
+# tracked 31-record data/universities.json catalogue.
+# [[d1_databases]]
+# binding = "UNIVERSITY_DB"
+# database_name = "replace-with-confirmed-d1-database"
+# database_id = "replace-with-confirmed-d1-id"

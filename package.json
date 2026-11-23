@@ -1,0 +1,27 @@
+{
+  "name": "path-v78-university-info",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "wrangler pages dev ./public",
+    "test": "node ./tests/test_inline_scripts.mjs && node ./tests/test_removed_features.mjs && node ./tests/test_syllabus_function.mjs && node ./tests/test_university_info_function.mjs && node ./tests/test_universities_function.mjs && node ./tests/test_activity_details_function.mjs && node ./tests/test_route_evidence_function.mjs && node ./tests/test_evidence_refresh_function.mjs && node ./tests/test_path_intelligence_function.mjs && node ./tests/test_openai_endpoint.mjs && node ./tests/test_netlify_adapter.mjs",
+    "test:contracts": "node ./tests/test_syllabus_function.mjs && node ./tests/test_university_info_function.mjs && node ./tests/test_universities_function.mjs && node ./tests/test_activity_details_function.mjs && node ./tests/test_route_evidence_function.mjs && node ./tests/test_path_intelligence_function.mjs",
+    "test:browser": "node ./tests/test_browser_ui.mjs",
+    "test:netlify": "node ./tests/test_netlify_adapter.mjs",
+    "test:openai-endpoint": "node ./tests/test_openai_endpoint.mjs",
+    "test:syntax": "node ./tests/test_inline_scripts.mjs",
+    "build:catalogue": "node ./scripts/build-university-catalogue.mjs && node ./scripts/build-d1-seed.mjs",
+    "audit:sources": "node ./scripts/audit-official-sources.mjs",
+    "deploy": "node ./scripts/deploy-guard.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.62.1",
+    "wrangler": "^4.0.0"
+  },
+  "dependencies": {
+    "@netlify/blobs": "11.1.7"
+  }
+}

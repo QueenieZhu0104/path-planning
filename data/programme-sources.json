@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "scope": "Server-authoritative programme source IDs. Clients send only an ID; URLs are never accepted from the request body.",
+  "records": [
+    {
+      "id": "nus-data-science-economics",
+      "university": "National University of Singapore",
+      "major": "Data Science & Economics",
+      "url": "https://chs.nus.edu.sg/programmes/dse/"
+    },
+    {
+      "id": "ntu-applied-computing-finance",
+      "university": "Nanyang Technological University",
+      "major": "Applied Computing in Finance",
+      "url": "https://www.ntu.edu.sg/computing/admissions/undergraduate-programmes/detail/bachelor-of-applied-computing-in-finance"
+    },
+    {
+      "id": "nus-computer-science-2026-27",
+      "university": "National University of Singapore",
+      "major": "Computer Science",
+      "url": "https://www.comp.nus.edu.sg/cug/per-cohort/cs/cs-26-27/"
+    },
+    {
+      "id": "mit-computer-science-economics-data-science",
+      "university": "Massachusetts Institute of Technology",
+      "major": "Computer Science, Economics, and Data Science",
+      "url": "https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/"
+    },
+    {
+      "id": "melbourne-computing-software-systems",
+      "university": "University of Melbourne",
+      "major": "Computing and Software Systems",
+      "url": "https://study.unimelb.edu.au/find/courses/major/computing-and-software-systems/"
+    }
+  ]
+}

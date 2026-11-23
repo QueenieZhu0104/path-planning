@@ -1,0 +1,15 @@
+[build]
+  command = "pnpm test"
+  publish = "public"
+  functions = "netlify/functions"
+
+[functions]
+  node_bundler = "esbuild"
+  included_files = ["data/universities.json", "data/activity-sources.json", "data/programme-sources.json"]
+
+[dev]
+  framework = "#static"
+  publish = "public"
+  functions = "netlify/functions"
+  port = 8888
+  autoLaunch = false

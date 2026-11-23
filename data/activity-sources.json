@@ -1,0 +1,708 @@
+{
+  "schemaVersion": 1,
+  "scope": "Server authority for Path V78 activity identity, organiser URL and route relationship. Dates and eligibility are intentionally not stored here.",
+  "records": [
+    {
+      "id": "evidence_aime-2027_2027-02-05-2027-02-06",
+      "name": "AIME 2027",
+      "url": "https://maa.org/amcreg/",
+      "tags": [
+        "数学",
+        "计算机",
+        "工程"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "evidence_amc-12-a-b-2026-27_2026-11-05-2026-11-13",
+      "name": "AMC 12 A / B — 2026–27",
+      "url": "https://maa.org/amcreg/",
+      "tags": [
+        "数学",
+        "计算机",
+        "工程",
+        "数据科学"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "evidence_hackonomics-2027_2027",
+      "name": "Hackonomics 2027",
+      "url": "https://hackonomics27.devpost.com/",
+      "tags": [
+        "计算机",
+        "经济",
+        "商业",
+        "数据科学",
+        "设计"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "evidence_nus-chemistry-camp-2026_2026",
+      "name": "NUS Chemistry Camp 2026",
+      "url": "https://chemistry.nus.edu.sg/nus-chemistry-camp/",
+      "tags": [
+        "化学",
+        "科学",
+        "生物"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "National University of Singapore"
+      ]
+    },
+    {
+      "id": "evidence_nus-mathematics-statistics-enrichment-camps_next-cycle-pending",
+      "name": "NUS Mathematics / Statistics Enrichment Camps",
+      "url": "https://www.science.nus.edu.sg/undergraduates/schools-and-public-outreach/camps-and-workshops/",
+      "tags": [
+        "数学",
+        "数据科学",
+        "统计",
+        "计算机"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "National University of Singapore"
+      ]
+    },
+    {
+      "id": "evidence_nus-science-summer-camp-2026_2026",
+      "name": "NUS Science Summer Camp 2026",
+      "url": "https://www.science.nus.edu.sg/sdl/science-summer-camp-2026/",
+      "tags": [
+        "科学",
+        "数学",
+        "生物",
+        "化学",
+        "计算机",
+        "AI"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "National University of Singapore"
+      ]
+    },
+    {
+      "id": "evidence_revolution-high-school-hardware-hackathon_2026-12-05-2026-12-06",
+      "name": "Revolution — High School Hardware Hackathon",
+      "url": "https://revolution-mty2026.devpost.com/",
+      "tags": [
+        "计算机",
+        "工程",
+        "硬件",
+        "创新"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "evidence_singapore-junior-physics-olympiad-sjpo-2026_2026",
+      "name": "Singapore Junior Physics Olympiad (SJPO) 2026",
+      "url": "https://ipssingapore.org/events/SJPO.html",
+      "tags": [
+        "物理",
+        "数学",
+        "工程",
+        "科学"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": [
+        "National University of Singapore",
+        "Nanyang Technological University"
+      ]
+    },
+    {
+      "id": "evidence_singapore-mathematical-olympiad_2027",
+      "name": "Singapore Mathematical Olympiad",
+      "url": "https://sgmathsociety.org/singapore-mathematical-olympiad-smo/",
+      "tags": [
+        "数学",
+        "计算机",
+        "工程"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "evidence_singapore-mathematical-olympiad-smo-2026_2026",
+      "name": "Singapore Mathematical Olympiad (SMO) 2026",
+      "url": "https://sgmathsociety.org/singapore-mathematical-olympiad-smo/",
+      "tags": [
+        "数学",
+        "计算机",
+        "工程",
+        "数据科学"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": [
+        "National University of Singapore",
+        "Nanyang Technological University"
+      ]
+    },
+    {
+      "id": "evidence_singapore-national-olympiad-in-informatics-noi-2026_2026",
+      "name": "Singapore National Olympiad in Informatics (NOI) 2026",
+      "url": "https://noisg.comp.nus.edu.sg/noi/",
+      "tags": [
+        "计算机",
+        "AI",
+        "数学",
+        "数据科学"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": [
+        "National University of Singapore"
+      ]
+    },
+    {
+      "id": "global_2026-high-school-architecture-koshien_2026",
+      "name": "2026 High School Architecture Koshien",
+      "url": "https://www.kenchikushikai.or.jp/torikumi/kenchiku-koshien/2026/kenchiku-koshien.html",
+      "tags": [
+        "建筑",
+        "设计",
+        "工程",
+        "城市规划"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "global_2026-j-flec-high-school-essay-competition-finance-economics_2026",
+      "name": "2026 J-FLEC High School Essay Competition: Finance & Economics",
+      "url": "https://ron2026.j-flec.go.jp/hs_detail.php",
+      "tags": [
+        "经济",
+        "金融",
+        "商业",
+        "社会科学",
+        "政策"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "global_2026-national-high-school-architectural-design-idea-contest-nias_2026",
+      "name": "2026 National High School Architectural Design Idea Contest (NiAS)",
+      "url": "https://www.nias.ac.jp/Archideacontest/ac_2026",
+      "tags": [
+        "建筑",
+        "设计",
+        "城市规划",
+        "工程"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "global_apa-topss-competition-for-high-school-psychology-students-2026_2026",
+      "name": "APA TOPSS Competition for High School Psychology Students 2026",
+      "url": "https://www.apa.org/ed/precollege/topss/student-competition",
+      "tags": [
+        "心理学",
+        "社会科学",
+        "教育",
+        "研究"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "global_global-high-school-research-competition-sarc_annual",
+      "name": "Global High School Research Competition (SARC)",
+      "url": "https://www.researchcomp.org/",
+      "tags": [
+        "研究",
+        "社会科学",
+        "经济",
+        "政治",
+        "历史",
+        "工程",
+        "艺术",
+        "科学"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "global_harvard-international-review-academic-writing-contest_annual",
+      "name": "Harvard International Review Academic Writing Contest",
+      "url": "https://hir.harvard.edu/",
+      "tags": [
+        "国际关系",
+        "政治",
+        "历史",
+        "经济",
+        "社会科学",
+        "写作",
+        "公共政策"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "global_ieo-opentrack-2026_2026",
+      "name": "IEO OpenTrack 2026",
+      "url": "https://tools.ieo-official.org/opentrack",
+      "tags": [
+        "经济",
+        "商业",
+        "金融"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "global_international-biology-olympiad-ibo_annual",
+      "name": "International Biology Olympiad (IBO)",
+      "url": "https://www.ibo-info.org/en/",
+      "tags": [
+        "生物",
+        "生命科学",
+        "医学",
+        "科学"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "global_international-chemistry-olympiad-icho-2026_2026",
+      "name": "International Chemistry Olympiad (IChO) 2026",
+      "url": "https://www.icho-official.org/",
+      "tags": [
+        "化学",
+        "科学",
+        "生命科学",
+        "医学",
+        "材料"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "global_international-economics-olympiad-ieo-2026_2026",
+      "name": "International Economics Olympiad (IEO) 2026",
+      "url": "https://2026.ieo-official.org/",
+      "tags": [
+        "经济",
+        "商业",
+        "金融",
+        "数据科学"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "global_international-linguistics-olympiad-iol-2027_2027",
+      "name": "International Linguistics Olympiad (IOL) 2027",
+      "url": "https://ioling.org/",
+      "tags": [
+        "语言学",
+        "语言",
+        "计算机",
+        "逻辑",
+        "人文"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "global_international-physics-olympiad-ipho_annual",
+      "name": "International Physics Olympiad (IPhO)",
+      "url": "https://www.ipho-new.org/",
+      "tags": [
+        "物理",
+        "数学",
+        "工程",
+        "科学"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "global_japan-statistics-data-analysis-competition-2026_2026",
+      "name": "Japan Statistics Data Analysis Competition 2026",
+      "url": "https://www.stat.go.jp/dss/compe01.html",
+      "tags": [
+        "统计",
+        "数据科学",
+        "数学",
+        "经济",
+        "社会科学"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "global_john-locke-institute-global-essay-prize-2026_2026",
+      "name": "John Locke Institute Global Essay Prize 2026",
+      "url": "https://www.johnlockeinstitute.com/essay-competition?lang=en",
+      "tags": [
+        "经济",
+        "历史",
+        "国际关系",
+        "法律",
+        "哲学",
+        "政治",
+        "心理学",
+        "公共政策",
+        "科学与技术",
+        "写作"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "global_maa-amc-10-12-2026-27_2026-27",
+      "name": "MAA AMC 10/12 2026–27",
+      "url": "https://maa.org/student-programs/amc/",
+      "tags": [
+        "数学",
+        "计算机",
+        "工程",
+        "数据科学"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "global_usaco-2026-programming-contest_2026",
+      "name": "USACO 2026 Programming Contest",
+      "url": "https://usaco.org/",
+      "tags": [
+        "计算机",
+        "AI",
+        "算法",
+        "数据科学"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "global_wharton-global-high-school-investment-competition-2026-27_2026-27",
+      "name": "Wharton Global High School Investment Competition 2026–27",
+      "url": "https://globalyouth.wharton.upenn.edu/competitions/investment-competition/",
+      "tags": [
+        "商业",
+        "金融",
+        "经济",
+        "管理",
+        "数据科学"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "global_wharton-high-school-data-science-competition-2026_2026",
+      "name": "Wharton High School Data Science Competition 2026",
+      "url": "https://globalyouth.wharton.upenn.edu/competitions/data-science/",
+      "tags": [
+        "数据科学",
+        "统计",
+        "商业",
+        "计算机",
+        "经济"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": []
+    },
+    {
+      "id": "ntu_gaip_insurance_innovation_2026",
+      "name": "GAIP Insurance Innovation Competition 2026 — Pre-University Category",
+      "url": "https://www.ntu.edu.sg/irfrc/news-events/events/detail/2026/02/10/default-calendar/the-gaip-insurance-innovation-competition-2026",
+      "tags": [
+        "商业",
+        "经济",
+        "心理学",
+        "行为科学",
+        "创新"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": [
+        "Nanyang Technological University"
+      ]
+    },
+    {
+      "id": "ntu_thrivelab_nudgathon_2026",
+      "name": "ThriveLab Nudgathon 2026",
+      "url": "https://www.ntu.edu.sg/sss/news-events/news/detail/thrivelab--nudgathon--kicks-off-at-ideas-festival-2026",
+      "tags": [
+        "心理学",
+        "社会科学",
+        "行为科学",
+        "研究",
+        "创新"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "Nanyang Technological University"
+      ]
+    },
+    {
+      "id": "nus_undergrad_open_house_2026",
+      "name": "NUS Undergraduate Admissions Open House 2026",
+      "url": "https://www.nus.edu.sg/oam/why-nus/admissions-oh2026",
+      "tags": [
+        "心理学",
+        "社会科学",
+        "经济",
+        "商业",
+        "计算机",
+        "工程",
+        "科学",
+        "人文"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "National University of Singapore"
+      ]
+    },
+    {
+      "id": "uni_nanyang-technological-university_ntu-nanyang-research-programme-nrp-2026_2026-27",
+      "name": "NTU Nanyang Research Programme (NRP) 2026",
+      "url": "https://www.ntu.edu.sg/education/talent-outreach/NRP/nanyang-research-programme-%28nrp%29/application",
+      "tags": [
+        "研究",
+        "工程",
+        "计算机",
+        "科学",
+        "商业",
+        "人文"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "Nanyang Technological University"
+      ]
+    },
+    {
+      "id": "uni_nanyang-technological-university_ntu-science-discovery-camp-2026_2026",
+      "name": "NTU Science Discovery Camp 2026",
+      "url": "https://www.ntu.edu.sg/science/NTU-Science-Discovery-Camp",
+      "tags": [
+        "科学",
+        "生物",
+        "化学",
+        "物理",
+        "数学"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "Nanyang Technological University"
+      ]
+    },
+    {
+      "id": "uni_nanyang-technological-university_ntu-social-science-challenge-2026_2026",
+      "name": "NTU Social Science Challenge 2026",
+      "url": "https://www.ntu.edu.sg/sss/news-events/events/detail/2026/05/30/default-calendar/ntu-social-science-challenge-2026",
+      "tags": [
+        "社会科学",
+        "经济",
+        "商业",
+        "环境科学",
+        "心理学",
+        "公共政策",
+        "研究"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "Nanyang Technological University"
+      ]
+    },
+    {
+      "id": "uni_nanyang-technological-university_one-arena-2026_2026",
+      "name": "One Arena 2026",
+      "url": "https://www.ntu.edu.sg/engineering/coe-events/2026/06/17/default-calendar/one-arena-2026",
+      "tags": [
+        "工程",
+        "计算机",
+        "机器人",
+        "创新"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "Nanyang Technological University"
+      ]
+    },
+    {
+      "id": "uni_nanyang-technological-university_seentu-2026_2026",
+      "name": "seeNTU 2026",
+      "url": "https://www.ntu.edu.sg/education/talent-outreach/seeNTU/seentu/application",
+      "tags": [
+        "计算机",
+        "工程",
+        "科学",
+        "商业",
+        "人文"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "Nanyang Technological University"
+      ]
+    },
+    {
+      "id": "uni_national-university-of-singapore_nus-mathematics-enrichment-camp_annual",
+      "name": "NUS Mathematics Enrichment Camp",
+      "url": "https://www.science.nus.edu.sg/undergraduates/schools-and-public-outreach/camps-and-workshops/",
+      "tags": [
+        "数学",
+        "计算机",
+        "数据科学"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "National University of Singapore"
+      ]
+    },
+    {
+      "id": "uni_national-university-of-singapore_nus-physics-enrichment-camp_annual",
+      "name": "NUS Physics Enrichment Camp",
+      "url": "https://www.science.nus.edu.sg/undergraduates/schools-and-public-outreach/camps-and-workshops/",
+      "tags": [
+        "物理",
+        "数学",
+        "工程"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "National University of Singapore"
+      ]
+    },
+    {
+      "id": "uni_national-university-of-singapore_nus-statistics-enrichment-camp_annual",
+      "name": "NUS Statistics Enrichment Camp",
+      "url": "https://www.science.nus.edu.sg/undergraduates/schools-and-public-outreach/camps-and-workshops/",
+      "tags": [
+        "统计",
+        "数据科学",
+        "数学"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "National University of Singapore"
+      ]
+    },
+    {
+      "id": "uni_national-university-of-singapore_singapore-national-crystal-growing-challenge-2026_2026",
+      "name": "Singapore National Crystal Growing Challenge 2026",
+      "url": "https://chemistry.nus.edu.sg/outreach-event-calendar/",
+      "tags": [
+        "化学",
+        "科学",
+        "材料"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "National University of Singapore"
+      ]
+    },
+    {
+      "id": "uni_stanford-university_stanford-ai4all-2026_2026",
+      "name": "Stanford AI4ALL 2026",
+      "url": "https://spcs.stanford.edu/programs/stanford-ai4all",
+      "tags": [
+        "计算机",
+        "AI",
+        "研究"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "Stanford University"
+      ]
+    },
+    {
+      "id": "uni_stanford-university_stanford-math-tournament-smt_annual",
+      "name": "Stanford Math Tournament (SMT)",
+      "url": "https://sumo.stanford.edu/smt/",
+      "tags": [
+        "数学",
+        "计算机",
+        "工程"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": [
+        "Stanford University"
+      ]
+    },
+    {
+      "id": "uni_stanford-university_stanford-pre-collegiate-summer-institutes-2026_2026",
+      "name": "Stanford Pre-Collegiate Summer Institutes 2026",
+      "url": "https://spcs.stanford.edu/programs/stanford-pre-collegiate-summer-institutes",
+      "tags": [
+        "计算机",
+        "数学",
+        "科学",
+        "商业",
+        "人文"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "Stanford University"
+      ]
+    },
+    {
+      "id": "uni_stanford-university_stanford-summer-humanities-institute-sshi_annual",
+      "name": "Stanford Summer Humanities Institute (SSHI)",
+      "url": "https://summerhumanities.spcs.stanford.edu/admissions-humanities",
+      "tags": [
+        "人文",
+        "社会科学",
+        "写作"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "Stanford University"
+      ]
+    },
+    {
+      "id": "uni_university-of-oxford_it-all-adds-up-2027_2027",
+      "name": "It All Adds Up 2027",
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/access-oxford/outreach-events/outreach-event-calendar",
+      "tags": [
+        "数学",
+        "数据科学"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "University of Oxford"
+      ]
+    },
+    {
+      "id": "uni_university-of-oxford_oxford-academic-competitions-for-school-aged-students_2026-27",
+      "name": "Oxford Academic Competitions for School-Aged Students",
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/supercurricular-hub/academic-competitions-for-school-aged-students",
+      "tags": [
+        "数学",
+        "科学",
+        "人文",
+        "写作",
+        "社会科学"
+      ],
+      "relationship": "independent-direction-evidence",
+      "universities": [
+        "University of Oxford"
+      ]
+    },
+    {
+      "id": "uni_university-of-oxford_oxford-outreach-event-calendar_2026-27",
+      "name": "Oxford Outreach Event Calendar",
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/access-oxford/outreach-events/outreach-event-calendar",
+      "tags": [
+        "数学",
+        "计算机",
+        "物理",
+        "人文",
+        "音乐",
+        "社会科学"
+      ],
+      "relationship": "university-run",
+      "universities": [
+        "University of Oxford"
+      ]
+    }
+  ]
+}

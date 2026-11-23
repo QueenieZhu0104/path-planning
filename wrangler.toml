@@ -1,0 +1,3 @@
+# Local Pages Functions settings only. Production configuration is deliberately
+# withheld until the existing Cloudflare Pages project has been confirmed.
+compatibility_date = "2026-10-19"
